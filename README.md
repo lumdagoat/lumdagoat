@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lumdagoat
 - 👀 I’m interested in web development, video production, and fighting games
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML, CSS, JS, and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord: lum#3881 Twitter: @lumdagoat
 
